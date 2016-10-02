@@ -1,1 +1,1 @@
-senser MQ_2's driver
+Senser MQ_2's driver on Raspberry Pi3B
